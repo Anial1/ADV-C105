@@ -1,0 +1,9 @@
+body
+{
+background-image: linear-gradient(to right top, red, red, orange, orange, yellow);
+}
+
+#room_name
+{
+    width: 320px;
+}
